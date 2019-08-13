@@ -1,0 +1,138 @@
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\roslyn\csc.exe
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\roslyn\vbc.exe
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\DemoMVC.dll.config
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\DemoMVC.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\DemoMVC.pdb
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Antlr3.Runtime.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\EntityFramework.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\EntityFramework.SqlServer.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Newtonsoft.Json.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Owin.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.Helpers.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.Mvc.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.Optimization.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.Razor.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.WebPages.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\WebGrease.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.Helpers.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.Mvc.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.Optimization.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.Razor.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.WebPages.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Antlr3.Runtime.pdb
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Newtonsoft.Json.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\EntityFramework.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\EntityFramework.SqlServer.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\obj\Debug\DemoMVC.csprojResolveAssemblyReference.cache
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\obj\Debug\DemoMVC.dll
+c:\users\brand\onedrive\documents\visual studio 2015\Projects\DemoMVC\DemoMVC\obj\Debug\DemoMVC.pdb
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\roslyn\csc.exe
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\roslyn\vbc.exe
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\roslyn\VBCSCompiler.exe
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\DemoMVC.dll.config
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\DemoMVC.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\DemoMVC.pdb
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Antlr3.Runtime.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\EntityFramework.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\EntityFramework.SqlServer.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Newtonsoft.Json.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Owin.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.Helpers.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.Mvc.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.Optimization.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.Razor.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.WebPages.Deployment.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.WebPages.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.WebPages.Razor.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\WebGrease.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.Helpers.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.Mvc.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.Optimization.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.Razor.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.WebPages.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.WebPages.Deployment.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\System.Web.WebPages.Razor.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Antlr3.Runtime.pdb
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Newtonsoft.Json.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\EntityFramework.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\EntityFramework.SqlServer.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\obj\Debug\DemoMVC.csprojResolveAssemblyReference.cache
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\obj\Debug\DemoMVC.dll
+C:\GitHub\Greetings-World\DemoMVC\DemoMVC\obj\Debug\DemoMVC.pdb
